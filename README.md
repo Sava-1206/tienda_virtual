@@ -40,7 +40,8 @@ Abre el archivo config.php o el archivo de configuración correspondiente, y mod
 Configurar el Servidor Web: Si estás usando Apache, asegúrate de que el archivo .htaccess esté configurado correctamente. 
 
 **Estructura de la aplicación**
-![image](https://github.com/user-attachments/assets/a63ebf8a-a816-472c-bae4-d6017d26ad37)
+
+- ![image](https://github.com/user-attachments/assets/a63ebf8a-a816-472c-bae4-d6017d26ad37)
 
 
 ## Usos
