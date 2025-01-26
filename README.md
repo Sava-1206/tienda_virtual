@@ -32,10 +32,10 @@ Si no tienes el archivo .sql, puedes crear las tablas manualmente según lo que 
 
 Abre el archivo config.php o el archivo de configuración correspondiente, y modifica los parámetros de conexión a la base de datos según tu configuración:
 
-$host = "localhost";  // Cambiar si usas un servidor remoto
-$usuario = "root";     // Cambiar por tu usuario de MySQL
-$password = "";        // Cambiar por tu contraseña de MySQL
-$database = "tienda";  // Cambiar por el nombre de tu base de datos
++ $host = "localhost";  // Cambiar si usas un servidor remoto
++ $usuario = "root";     // Cambiar por tu usuario de MySQL
++ $password = "";        // Cambiar por tu contraseña de MySQL
++ $database = "tienda";  // Cambiar por el nombre de tu base de datos
 
 Configurar el Servidor Web: Si estás usando Apache, asegúrate de que el archivo .htaccess esté configurado correctamente. 
 
