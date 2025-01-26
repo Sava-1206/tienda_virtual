@@ -32,9 +32,6 @@ Si no tienes el archivo .sql, puedes crear las tablas manualmente según lo que 
 
 Abre el archivo config.php o el archivo de configuración correspondiente, y modifica los parámetros de conexión a la base de datos según tu configuración:
 
-php
-Copiar
-Editar
 $host = "localhost";  // Cambiar si usas un servidor remoto
 $usuario = "root";     // Cambiar por tu usuario de MySQL
 $password = "";        // Cambiar por tu contraseña de MySQL
@@ -45,7 +42,7 @@ Configurar el Servidor Web: Si estás usando Apache, asegúrate de que el archiv
 ## Usos
 **Accede a la Aplicación:**
 
-Abre tu navegador y dirígete a http://localhost/tienda_virtual (o la URL correspondiente si usas un servidor diferente).
+Abre tu navegador y dirígete a http://localhost/tienda_virtual/public (o la URL correspondiente si usas un servidor diferente).
 
 **Funcionalidades:**
 
