@@ -1,6 +1,6 @@
 # Tienda Virtual PHP y MySQL
 
-Este es un proyecto de **Tienda Virtual** desarrollado con **PHP** y **MySQL**. Permite gestionar productos, usuarios y realizar compras en línea.
+Este es un proyecto de **Tienda Virtual** desarrollado con **PHP** y **MySQL**. Permite gestionar productos (crear, editar o eliminar) en línea.
 
 ## Requisitos
 
@@ -39,6 +39,10 @@ Abre el archivo config.php o el archivo de configuración correspondiente, y mod
 
 Configurar el Servidor Web: Si estás usando Apache, asegúrate de que el archivo .htaccess esté configurado correctamente. 
 
+**Estructura de la aplicación**
+![image](https://github.com/user-attachments/assets/a63ebf8a-a816-472c-bae4-d6017d26ad37)
+
+
 ## Usos
 **Accede a la Aplicación:**
 
@@ -49,4 +53,4 @@ Abre tu navegador y dirígete a http://localhost/tienda_virtual/public (o la URL
 - Registro de Productos: Puedes añadir productos a la tienda con información como nombre, descripción, precio y cantidad.
 - Creación de Producots: Pueden agregar productos con su nombre, descripción, precio y cantidad.
 - Editar productos: Pueden actualizar los productos.
--Eliminar producto: Pueden realizar eliminación de los productos que desea borrar.
+- Eliminar producto: Pueden realizar eliminación de los productos que desea borrar.
